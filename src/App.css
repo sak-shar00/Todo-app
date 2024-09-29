@@ -1,0 +1,25 @@
+h1{
+  font-weight:700;
+  font-size: 45px;
+  margin:10px;
+  margin-bottom: 25px;
+}
+input{
+  width: 100%;
+}
+.items-container{
+  text-align: left;
+}
+.row-1{
+  margin:10px 5px;
+}
+.button-1{
+  min-width: 170px;
+}
+.message{
+  font-size: 40px;
+  margin-top:50px;
+  font-weight:600;
+  color:brown;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
